@@ -25,3 +25,6 @@
 
 Actualmente soy estudiante de desarrollo de software en SENATI.
 Me gusta resolver problemas mediante tecnología y busco mejorar constantemente.
+
+📌 Proyecto a Futuro
+Tener una Empresa de Software
